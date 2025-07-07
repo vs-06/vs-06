@@ -79,11 +79,8 @@
 - 📚 [**Data Structures & Algorithms**](https://github.com/VamshiSaini1/Data-Structures-and-Algorithms)  
   Practicing DSA with LeetCode challenges.
 
-- ☁️ [**AWS Solutions Architect Prep**](https://github.com/VamshiSaini1/AWS_Solutions_Architect_Certification_Prep)  
-  Micro projects and scripts to prepare for certification.
-
-- 🧮 [**SQL Mastery Journey**](https://github.com/VamshiSaini1/Sql-prep) *(Developed in R)*  
-  SQL skills from beginner to advanced with practical examples.
+- 🧮 [**SQL Mastery Journey**](https://github.com/VamshiSaini1/Sql-prep)  
+  SQL concept wise code snippets.
 
 ---
 
