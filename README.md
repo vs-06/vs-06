@@ -64,22 +64,22 @@
   - Analyzed class-conditional bias in CGAN and semantic preservation in CycleGAN for unpaired image translation tasks.
   - Built a reproducible evaluation framework guiding architecture selection for synthetic data generation and domain adaptation.
   
-- 📦 [Store-Level Demand Forecasting System using XGBoost and Time-Series Feature Engineering](https://github.com/VamshiSaini1/Inventory-Demand-Forecasting-using-ML)  
+- 📦 [Store-Level Demand Forecasting System using XGBoost and Time-Series Feature Engineering](https://github.com/vs-06/Store-Level-Demand-Forecasting-System-using-XGBoost-and-Time-Series-Feature-Engineering)  
   - Designed an end-to-end time-series forecasting pipeline on 9M+ sales records with advanced lag, rolling, and seasonal feature engineering.
   - Trained and deployed an XGBoost regression model (MAPE 3.04%) to predict weekly store-level product demand.
   - Integrated predictions into Streamlit dashboards for sales reps and store owners, enabling data-driven inventory planning and stock optimization
 
-- 🏡 [Sustainable Housing Classification using Decision Trees and Logistic Regression](https://github.com/VamshiSaini1/Converting-Residential-Homes-to-Sustainable-Houses-Using-AI) *(Built in R)*  
+- 🏡 [Sustainable Housing Classification using Decision Trees and Logistic Regression](https://github.com/vs-06/-Sustainable-Housing-Classification-using-Decision-Trees-and-Logistic-Regression) *(Built in R)*  
   - Built a machine learning decision-support system using Decision Trees and Logistic Regression to classify and recommend energy-efficient upgrades with up to 88% accuracy.
   - Performed large-scale feature engineering and outlier detection in R, integrating geospatial, energy, and building-material data.
   - Delivered real-time recommendations through an interactive R Shiny web application for cost-effective green retrofitting.
 
-- 🎥 [Real-Time Video Moderation System using Deep Convolutional Neural Networks](https://github.com/VamshiSaini1/Real-time-sensitive-content-detection-using-ML)  
+- 🎥 [Real-Time Video Moderation System using Deep Convolutional Neural Networks](https://github.com/vs-06/Real-Time-Video-Moderation-System-using-Deep-Convolutional-Neural-Networks)  
   - Built a real-time sensitive content detection pipeline using OpenCV + PyTorch CNN, achieving 96% accuracy in classifying explicit frames from streaming videos.
   - Deployed a Flask-based REST API with MySQL backend to store frame-level predictions and trigger grouped alerts with sub-second latency.
   - Designed a scalable preprocessing and alerting workflow enabling proactive content filtering for parental control and classroom safety use cases.
 
-- 💬 [Scalable NLP Pipeline for Automated Sentiment Classification and Support Prioritization](https://github.com/VamshiSaini1/Automating-Customer-Support-Using-ML)  
+- 💬 [Scalable NLP Pipeline for Automated Sentiment Classification and Support Prioritization](https://github.com/vs-06/Scalable-NLP-Pipeline-for-Automated-Sentiment-Classification-and-Support-Prioritization)  
   - Developed an end-to-end NLP pipeline using fine-tuned BERT to classify 20K+ customer reviews into positive, neutral, and negative sentiments with 91% accuracy.
   - Automated ticket creation and prioritization for negative feedback using a Flask + MySQL microservice architecture.
   - Enabled real-time analytics and response automation, significantly reducing manual review effort and support turnaround time.
