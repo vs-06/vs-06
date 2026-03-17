@@ -12,9 +12,9 @@
 
 ### 🚀 About Me
 
-🎓 Jr Data Engineer, graduate student @ Western Michigan University, passionate about turning data into actionable insights.  
-💼 Experienced in **Data Engineering, Data Modeling, Machine Learning, and Cloud Platforms (AWS)**, with hands-on expertise in building scalable pipelines, real-time integrations, and analytics solutions.
-🌍 Love building projects that bridge real-world problems with intelligent systems.
+🎓 Data Engineer | Graduate Student @ Western Michigan University  
+⚙️ Building data pipelines, ETL workflows, and data warehouse solutions using Python, SQL, PySpark, Databricks, Airflow, and AWS.  
+📊 Interested in scalable data systems, distributed processing, and turning raw data into reliable analytics.
 
 ---
 
