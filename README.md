@@ -1,7 +1,5 @@
 <h1 align="center">👋 Howdy, I'm Vamshi Saini!</h1>
 <p align="center">
-  <a ><strong>M.S. Data Science '26 @ Western Michigan University</strong></a> |
-  <a href="https://www.linkedin.com/in/vs006/">📊 Data Professional</a>
 </p>
 
 <p align="center">
