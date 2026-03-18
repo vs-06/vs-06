@@ -1,4 +1,4 @@
-<h1 align="center">Howdy 👋, I'm Vamshi Saini!</h1>
+<h1 align="center">👋 Howdy, I'm Vamshi Saini!</h1>
 <p align="center">
 </p>
 
